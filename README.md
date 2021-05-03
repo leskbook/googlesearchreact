@@ -21,7 +21,8 @@
   https://github.com/leskbook/googlesearchreact<br>
   https://googlesearchreact.herokuapp.com/
   ## Screenshots-Demo
-  https://github.com/leskbook/googlesearchreact/blob/main/client/src/images/demo.gif
+  <img src="https://github.com/leskbook/googlesearchreact/blob/main/client/src/images/demo.gif">
+  <img src="https://github.com/leskbook/leskbookreactportfolio/blob/master/public/assets/images/home.PNG">
   
   ## Project Objective
   Create a new React-based Google Books Search app. This assignment requires creation of React components, work with helper/util functions, and utilize React lifecycle methods to query and display books based on user searches. Node, Express and MongoDB are used so that users can save books to review or purchase later.
